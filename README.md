@@ -1,6 +1,6 @@
 # Hello, my friend!
 My name is Dmitrii Pankov and i am a student from Novosibirk State University. A bit of information about me:
-- 🟠 My main studying topic - Backend development, basically using GO or Java.
+- 🟠 My main studying topic - Backend development, basically using Java and Spring Boot.
 - 🔵 I can work with Docker and Kubernetes.
 - 🟣 Constantly learning english language.
 - 🟤 Open to any job in above mentioned fields.
